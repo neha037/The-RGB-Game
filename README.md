@@ -10,4 +10,4 @@ The game displays a rgb code and few squares with random colours. You need to se
 
 The game has different functionality such as resetting the game and two modes - #easy and #hard . The easy mode consist of 3 squares and hard mode consistes of 6 square.
 
-For more visit - 
+For more visit - https://neha037.github.io/The-RGB-Game/
