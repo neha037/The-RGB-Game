@@ -1,7 +1,7 @@
 # The-RGB-Game
 ---
--A fun game to guess colour by their RGB code
--This website is made up of HTML5, CSS 5, Vanilla JS without use of any library. 
+- A fun game to guess colour by their RGB code
+- This website is made up of HTML5, CSS 5, Vanilla JS without use of any library. 
 
 ---
 
