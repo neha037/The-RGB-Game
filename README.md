@@ -13,7 +13,6 @@
 ---
 
 # Demo
----
 For live demostration visit - https://neha037.github.io/The-RGB-Game/
 
 ---
